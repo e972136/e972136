@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Novatech as backEnd developer with springBoot in java
+- 🔭 Actualmente trabajando en Novatech como backEnd developer con spring boot en java 
+
 <!--
 **e972136/e972136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
